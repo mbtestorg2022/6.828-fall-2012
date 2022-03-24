@@ -175,7 +175,7 @@ YEARS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Quiz 2 (PDF)]({{< baseurl >}}/resources/mit6_828f12_q04_2_sol)
+[Quiz 2 (PDF)]({{< baseurl >}}/resources/mit6_828f12_q04_2_sol)
 {{< tdclose >}}
 {{< tdopen >}}
 2004
