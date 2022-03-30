@@ -4,6 +4,7 @@ description: This file contains the information regarding Operating System Engin
   Assignment 21.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-828-operating-system-engineering-fall-2012/11777d725b5a59b7ffcc5f462e5e1119_MIT6_828F12_assignment21.pdf
 file_type: application/pdf
+parent_uid: 5c0abeee-30e6-0852-4196-56de079fa913
 resourcetype: Document
 title: Operating System Engineering, Assignment 21
 uid: 11777d72-5b5a-59b7-ffcc-5f462e5e1119

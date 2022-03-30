@@ -13,9 +13,9 @@ Lectures: 2 sessions / week, 1.5 hours / session
 
 [_6.033 Computer System Engineering_](/courses/6-033-computer-system-engineering-spring-2009/)
 
-[_6.170 Software Studio_](/courses/6-170-software-studio-spring-2013/)
+[_6.170 Software Studio_](/courses/6-170-software-studio-spring-2013)
 
-[_6.004 Computation Structures_](/courses/6-004-computation-structures-spring-2009/)
+[_6.004 Computation Structures_](/courses/6-004-computation-structures-spring-2009)
 
 Description
 -----------
